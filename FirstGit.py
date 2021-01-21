@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan 20 22:26:21 2021
+Created on Wed Jan 20 21:23:10 2021
 
 @author: rasis
 """
 
 
-print ("my first Git hub")
+
+
+print ("Second Git")
+print ("Third Git")
+print ("First Git")
